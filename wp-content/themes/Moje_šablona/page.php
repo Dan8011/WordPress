@@ -10,6 +10,7 @@
                 wp_title( '|', true, 'right' ); // Standardní titulek pro ostatní stránky
             } 
             ?></title>
+            <link rel="stylesheet" href="<?php echo $GLOBALS['moje_sablona_url']; ?>/style.css">
 </head>
 <body>
 
