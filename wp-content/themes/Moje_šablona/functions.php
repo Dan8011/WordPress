@@ -14,7 +14,7 @@ function moje_sablona_nacti_scripty() {
         array(),
         filemtime(get_template_directory() . '/style.css')
     );
- 
+
     // JavaScript
     wp_enqueue_script(
         'moje-skript',

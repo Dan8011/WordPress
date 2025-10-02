@@ -11,6 +11,7 @@
             } 
             ?></title>
             <link rel="stylesheet" href="<?php echo $GLOBALS['moje_sablona_url']; ?>/style.css">
+            <link rel="stylesheet" href="<?php echo $GLOBALS['moje_sablona_url']; ?>/style/footer.css">
 </head>
 <body>
 
