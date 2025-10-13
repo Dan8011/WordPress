@@ -1,4 +1,7 @@
 <footer>
+    
+    <div class="wave"></div>
+   
     <div class="wrapper">
         <div class="wrapper-content">
             <h2>Zde se nachází footer</h2>
